@@ -10,5 +10,6 @@ export class AppComponent {
 
   ngOnInit(){
     console.log('CI Works')
+    console.log('My app is ok')
   }
 }
