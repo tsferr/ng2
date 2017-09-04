@@ -58,6 +58,11 @@ var AppComponent = (function () {
     AppComponent.prototype.ngOnInit = function () {
         console.log('CI Works');
         console.log('My app is ok');
+        console.log('My app is ok');
+        console.log('My app is ok');
+        console.log('My app is ok');
+        console.log('My app is ok');
+        console.log('My app is ok');
     };
     return AppComponent;
 }());
