@@ -9,7 +9,6 @@ export class AppComponent {
   title = 'app';
 
   ngOnInit(){
-    console.log('CI Works')
-    console.log('My app is ok')
+    console.log('Thiago Takeda')
   }
 }
