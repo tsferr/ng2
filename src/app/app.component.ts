@@ -6,9 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Quebrada';
+  title = 'app';
 
   ngOnInit(){
-    console.log('Thiago Takeda')
+    console.log('Workshop de Docker')
   }
 }
