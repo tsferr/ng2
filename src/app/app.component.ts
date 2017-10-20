@@ -9,6 +9,6 @@ export class AppComponent {
   title = 'app';
 
   ngOnInit(){
-    console.log('Workshop de Docker')
+    console.log('Start')
   }
 }
