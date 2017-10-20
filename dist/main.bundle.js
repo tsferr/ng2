@@ -53,7 +53,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
 
 var AppComponent = (function () {
     function AppComponent() {
-        this.title = 'app';
+        this.title = 'workshop';
     }
     AppComponent.prototype.ngOnInit = function () {
         console.log('Workshop Docker and CI');
