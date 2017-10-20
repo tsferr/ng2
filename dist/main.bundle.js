@@ -56,7 +56,7 @@ var AppComponent = (function () {
         this.title = 'app';
     }
     AppComponent.prototype.ngOnInit = function () {
-        console.log('Start');
+        console.log('Workshop Docker and CI');
     };
     return AppComponent;
 }());
